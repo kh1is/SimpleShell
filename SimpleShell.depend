@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539349736 source:/home/khalil/Desktop/code blocks projects/SimpleShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<signal.h>
+
